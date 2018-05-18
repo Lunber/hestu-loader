@@ -1,6 +1,6 @@
 {
-  "name": "wechat-mina-loader",
-  "version": "0.0.7",
+  "name": "wechat-hestu-loader",
+  "version": "0.0.1",
   "description": "a mina components loader for webpack",
   "main": "index.js",
   "scripts": {
@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zezhipeng/mina-loader.git"
+    "url": "git+https://github.com/Lunber/hestu-loader.git"
   },
   "keywords": [
-    "mina-loader"
+    "hestu-loader"
   ],
-  "author": "zezhipeng",
+  "author": "Lunber",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/zezhipeng/mina-loader/issues"
+    "url": "https://github.com/Lunber/hestu-loader/issues"
   },
   "babel": {
     "babelrc": false,
@@ -41,5 +41,5 @@
   "dependencies": {
     "fs-extra": "^3.0.1"
   },
-  "homepage": "https://github.com/zezhipeng/mina-loader#readme"
+  "homepage": "https://github.com/Lunber/hestu-loader#readme"
 }

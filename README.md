@@ -3,7 +3,7 @@
 
 ## 安装
 ```
-npm install wechat-mina-loader
+npm install wechat-hestu-loader
 
 ```
 
@@ -13,8 +13,8 @@ module.exports = {
   module: {
     rules: [
       {
-        test: /\.mina$/,
-        loader: 'wechat-mina-loader'
+        test: /\.ht$/,
+        loader: 'wechat-hestu-loader'
       }
     ]
   }
@@ -51,4 +51,8 @@ require('./pages/index/index.mina')
 
 将高亮设置为 vuecomponent 即可
 
+### 配置项
+
+dist: 前缀路径名
+replace: 需要替换的路径名 如{src: ''}
 

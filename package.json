@@ -32,6 +32,7 @@
   "devDependencies": {
     "babel-core": "^6.24.1",
     "babel-preset-env": "^1.4.0",
+    "babel-preset-stage-2": "^6.24.1",
     "consolidate": "^0.14.5",
     "fs-extra": "^3.0.1",
     "loader-utils": "^1.1.0",

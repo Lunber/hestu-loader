@@ -55,4 +55,5 @@ require('./pages/index/index.mina')
 
 dist: 前缀路径名
 replace: 需要替换的路径名 如{src: ''}
+mode: 小程序类型，默认为微信小程序。目前可传参数有```'wechat'```,```'baidu'```。
 

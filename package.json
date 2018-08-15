@@ -1,6 +1,6 @@
 {
   "name": "wechat-hestu-loader",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "a mina components loader for webpack",
   "main": "index.js",
   "scripts": {
